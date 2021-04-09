@@ -19,7 +19,7 @@ class App extends Component {
             contents:[
                 {id:1, title:'HTML', desc:'HTML is for information'},
                 {id:2, title:'CSS', desc:'CSS is for design'},
-                {id:3, title:'JavaScript', desc:'JavaSCript is for interactive'}
+                {id:3, title:'JavaScript', desc:'JavaScript is for interactive'}
             ]
         }
     }
@@ -128,3 +128,4 @@ class App extends Component {
 }
         
 export default App;
+
